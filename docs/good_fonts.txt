@@ -1,0 +1,18 @@
+DejaVu Sans Mono 12
+DejaVu Sans Mono 14
+DejaVu Sans Mono 16
+Monospace 12
+Monospace 14
+Monospace 16
+Courier New 12
+Courier New 14
+Courier New 16
+DejaVu Sans Mono 12
+DejaVu Sans Mono 14
+DejaVu Sans Mono 16
+Monospace 12
+Monospace 14
+Monospace 16
+Courier New 12
+Courier New 14
+Courier New 16
